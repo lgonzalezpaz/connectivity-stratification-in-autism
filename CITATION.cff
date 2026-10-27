@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and the underlying data descriptors."
+title: "The stability ceiling of connectome subtypes: analysis code"
+abstract: >
+  Closed-form stability ceiling for categorical neuroimaging subtypes, its
+  Monte-Carlo validation, and the ABIDE I/ABIDE II analyses reported in
+  "A measurement ceiling explains the developmental instability of autism
+  connectivity subtypes".
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-25"
+authors:
+  - family-names: "[AUTHOR 1 FAMILY NAME]"
+    given-names: "[AUTHOR 1 GIVEN NAMES]"
+    email: "lgonzalezpaz@gmail.com"
+repository-code: "[GITHUB URL - insert on release]"
+identifiers:
+  - type: doi
+    value: "[ZENODO DOI - minted on release]"
+    description: "Archived release of this repository"
+keywords:
+  - autism
+  - functional connectivity
+  - subtyping
+  - test-retest reliability
+  - precision psychiatry
